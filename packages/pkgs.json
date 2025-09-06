@@ -1,0 +1,12 @@
+[
+ {
+  "path": "/packages/iot/wiznet", 
+  "ver": "latest", 
+  "name": "WIZNET"
+ }, 
+ {
+  "path": "/packages/ai/ulapack", 
+  "ver": "latest", 
+  "name": "ULAPACK"
+ }
+]
